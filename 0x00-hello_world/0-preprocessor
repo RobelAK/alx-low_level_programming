@@ -1,0 +1,2 @@
+#!/bin/baxh
+gcc -E| $CFILE -o c
